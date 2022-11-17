@@ -18,5 +18,5 @@ Install the required dependencies
 # IMG - Flutter Weather Meteo
 
  | Weather App |
- |-----------|-----------|
+ |-----------|
  |<img src="https://media0.giphy.com/media/lSI6kxLEptTVQyddRG/giphy.gif?cid=790b7611d4877260e34fa4c0ab78775736271007ee797970&rid=giphy.gif&ct=g" width="250" >
